@@ -49,7 +49,7 @@ bower inti
 }
 ```
 
-### Install Foundation 6
+### Install Bootstrap 3
 - Update the bower.json file in the root of your Laravel project with the following two dependencies.
 ```
     "private": "true",
@@ -413,12 +413,6 @@ To build just follow official docs:
 
 > Compiled files will be at public/css/app.css and public/js/app.js.
 
-## Update Foundation
-To update to the latest Zurb Foundation version just run:
-```
-bower update
-```
 
 ## Resources
 - Laravel Installation - https://laravel.com/docs/5.1/installation
-- Foundation Integration - http://stackoverflow.com/questions/30964780/foundation-with-laravel-and-elixir
